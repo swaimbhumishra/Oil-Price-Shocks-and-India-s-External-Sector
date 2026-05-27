@@ -35,7 +35,7 @@ The paper analyses how geopolitically driven disruptions in global crude oil mar
 
 ## Repository Contents
 
-- `SWAIMBHU_RESEARCH PAPER.pdf` — Full independent policy research paper
+- 'SWAIMBHU_RESEARCH PAPER.pdf' — Full independent policy research paper
 
 ---
 
