@@ -35,13 +35,13 @@ The paper analyses how geopolitically driven disruptions in global crude oil mar
 
 ## Repository Contents
 
-- 'SWAIMBHU_RESEARCH PAPER.pdf' — Full independent policy research paper
+- 'https://github.com/swaimbhumishra/Oil-Price-Shocks-and-India-s-External-Sector/blob/b7509d1e35d44ee1ad67b6aca0568bd201b1d469/SWAIMBHU_RESEARCH%20PAPER.pdf' — Full independent policy research paper
 
 ---
 
 ## Author
 
-**Swaimbhu Mishra**  
+**Swaimbhu**  
 B.Tech, Electrical & Electronics Engineering  
 Maharaja Agrasen Institute of Technology (GGSIPU), New Delhi
 
